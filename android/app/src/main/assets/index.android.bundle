@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Error: Unable to resolve module ./index.android from /Users/macpro/Desktop/reactNative/dictionary/.: <br><br>None of these files exist:<br> &nbsp;* index.android(.native|.android.js|.native.js|.js|.android.jsx|.native.jsx|.jsx|.android.json|.native.json|.json|.android.ts|.native.ts|.ts|.android.tsx|.native.tsx|.tsx)<br> &nbsp;* index.android/index(.native|.android.js|.native.js|.js|.android.jsx|.native.jsx|.jsx|.android.json|.native.json|.json|.android.ts|.native.ts|.ts|.android.tsx|.native.tsx|.tsx)<br> &nbsp; &nbsp;at ModuleResolver.resolveDependency (/Users/macpro/Desktop/reactNative/dictionary/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:137:15)<br> &nbsp; &nbsp;at DependencyGraph.resolveDependency (/Users/macpro/Desktop/reactNative/dictionary/node_modules/metro/src/node-haste/DependencyGraph.js:260:43)<br> &nbsp; &nbsp;at /Users/macpro/Desktop/reactNative/dictionary/node_modules/metro/src/lib/transformHelpers.js:177:21<br> &nbsp; &nbsp;at Server._resolveRelativePath (/Users/macpro/Desktop/reactNative/dictionary/node_modules/metro/src/Server.js:1161:12)<br> &nbsp; &nbsp;at async Server.requestProcessor [as _processBundleRequest] (/Users/macpro/Desktop/reactNative/dictionary/node_modules/metro/src/Server.js:468:37)<br> &nbsp; &nbsp;at async Server._processRequest (/Users/macpro/Desktop/reactNative/dictionary/node_modules/metro/src/Server.js:390:9)</pre>
+</body>
+</html>
